@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Suheda ve Fatih//Davetiye//TR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:dugun-20261101-suheda-fatih@davetiye
+DTSTAMP:20261008T090000Z
+DTSTART:20261101T110000Z
+DTEND:20261101T150000Z
+SUMMARY:Şüheda & Fatih · Düğün
+LOCATION:Tektaş Altın Koza Düğün Salonu\, İstiklal Mah. Saraçoğlu C
+ d. No:109\, Karatay / Konya
+DESCRIPTION:Hayatımızın en anlamlı gününde sizleri de aramızda görm
+ ekten mutluluk duyarız.\n\nDüğün: 1 Kasım 2026 Pazar\, saat 14.00\n\n
+ Gelin Alma: Saat 13.30'da erkek evinden hareket edilecektir.\nErkek Evi: 
+ Çimenlik Mah. Pervaz Sok. No:5 D:8 G Blok Karatay / Konya\nKız Evi: İş
+ galaman Mah. Hacıveyiszade Sok. No:13A/2 Karatay / Konya\n\nFotoğraf ve 
+ video çekimi kesinlikle yasaktır.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Yarın Şüheda & Fatih'in düğünü
+TRIGGER:-P1D
+END:VALARM
+END:VEVENT
+END:VCALENDAR
